@@ -3,7 +3,6 @@
   background-color: rgb(255, 255, 255);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
   padding: 2rem;
-  cursor: pointer;
 }
 .repo-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
@@ -51,6 +50,7 @@
 .repo-name {
   white-space: nowrap;
   text-overflow: ellipsis;
+  cursor: pointer;
   color: rgb(36, 41, 46);
   font-family: "Google Sans Regular";
   margin-bottom: 0.75rem;
@@ -79,6 +79,7 @@
 .repo-details {
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 
 .repo-creation-date {
@@ -110,4 +111,11 @@
   .repo-creation-date {
     font-size: 14px;
   }
+}
+
+.git-link {
+  font-size: 30px;
+  margin-right: 15px;
+  cursor: pointer;
+  color: blue;
 }
