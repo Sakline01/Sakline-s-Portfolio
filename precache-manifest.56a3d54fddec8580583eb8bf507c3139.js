@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38cbf34498ae2d8e19c2424597b05521",
+    "revision": "a3067642daad508d71deb420ac64de70",
     "url": "/Sakline-s-Portfolio/index.html"
   },
   {
-    "revision": "5ada064c184deebebf82",
+    "revision": "cbbf406f20eb3f5ff77b",
     "url": "/Sakline-s-Portfolio/static/css/main.c709f515.chunk.css"
   },
   {
-    "revision": "b878fabf4b82ecf5bccc",
-    "url": "/Sakline-s-Portfolio/static/js/2.69f44d3e.chunk.js"
+    "revision": "bf921fd9bf9619ac93f2",
+    "url": "/Sakline-s-Portfolio/static/js/2.761bb68b.chunk.js"
   },
   {
-    "revision": "5ada064c184deebebf82",
-    "url": "/Sakline-s-Portfolio/static/js/main.1aff9b9f.chunk.js"
+    "revision": "cbbf406f20eb3f5ff77b",
+    "url": "/Sakline-s-Portfolio/static/js/main.e6d7dfe9.chunk.js"
   },
   {
     "revision": "a0b0cb80c285e9e578dd",
     "url": "/Sakline-s-Portfolio/static/js/runtime-main.273c454a.js"
+  },
+  {
+    "revision": "0e9dcfdce936c04767a6cefde702bab3",
+    "url": "/Sakline-s-Portfolio/static/media/ circle2.0e9dcfdc.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -68,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sakline-s-Portfolio/static/media/blogs_image.058eca4c.svg"
   },
   {
-    "revision": "0e9dcfdce936c04767a6cefde702bab3",
-    "url": "/Sakline-s-Portfolio/static/media/circle.0e9dcfdc.png"
+    "revision": "53367f8c3c65b5d7120a5a691e8ae5c4",
+    "url": "/Sakline-s-Portfolio/static/media/circle.53367f8c.png"
   },
   {
     "revision": "f2b8403232dd7b7e23080c84e3ad337f",

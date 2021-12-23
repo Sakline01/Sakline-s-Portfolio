@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/Sakline-s-Portfolio/static/css/main.c709f515.chunk.css",
-    "main.js": "/Sakline-s-Portfolio/static/js/main.1aff9b9f.chunk.js",
-    "main.js.map": "/Sakline-s-Portfolio/static/js/main.1aff9b9f.chunk.js.map",
+    "main.js": "/Sakline-s-Portfolio/static/js/main.e6d7dfe9.chunk.js",
+    "main.js.map": "/Sakline-s-Portfolio/static/js/main.e6d7dfe9.chunk.js.map",
     "runtime-main.js": "/Sakline-s-Portfolio/static/js/runtime-main.273c454a.js",
     "runtime-main.js.map": "/Sakline-s-Portfolio/static/js/runtime-main.273c454a.js.map",
-    "static/js/2.69f44d3e.chunk.js": "/Sakline-s-Portfolio/static/js/2.69f44d3e.chunk.js",
-    "static/js/2.69f44d3e.chunk.js.map": "/Sakline-s-Portfolio/static/js/2.69f44d3e.chunk.js.map",
+    "static/js/2.761bb68b.chunk.js": "/Sakline-s-Portfolio/static/js/2.761bb68b.chunk.js",
+    "static/js/2.761bb68b.chunk.js.map": "/Sakline-s-Portfolio/static/js/2.761bb68b.chunk.js.map",
     "index.html": "/Sakline-s-Portfolio/index.html",
-    "precache-manifest.109666a5e7f38df331ccd1801e5720f7.js": "/Sakline-s-Portfolio/precache-manifest.109666a5e7f38df331ccd1801e5720f7.js",
+    "precache-manifest.56a3d54fddec8580583eb8bf507c3139.js": "/Sakline-s-Portfolio/precache-manifest.56a3d54fddec8580583eb8bf507c3139.js",
     "service-worker.js": "/Sakline-s-Portfolio/service-worker.js",
     "static/css/main.c709f515.chunk.css.map": "/Sakline-s-Portfolio/static/css/main.c709f515.chunk.css.map",
+    "static/media/ circle2.png": "/Sakline-s-Portfolio/static/media/ circle2.0e9dcfdc.png",
     "static/media/index.css": "/Sakline-s-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/Sakline-s-Portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/Sakline-s-Portfolio/static/media/animated_logo.dcd6dee2.svg",
     "static/media/bhs.png": "/Sakline-s-Portfolio/static/media/bhs.0f956f73.png",
     "static/media/blogs_image.svg": "/Sakline-s-Portfolio/static/media/blogs_image.058eca4c.svg",
-    "static/media/circle.png": "/Sakline-s-Portfolio/static/media/circle.0e9dcfdc.png",
+    "static/media/circle.png": "/Sakline-s-Portfolio/static/media/circle.53367f8c.png",
     "static/media/circleimage.png": "/Sakline-s-Portfolio/static/media/circleimage.f2b84032.png",
     "static/media/cloud_infrastructure.svg": "/Sakline-s-Portfolio/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/contactMail.png": "/Sakline-s-Portfolio/static/media/contactMail.5f915405.png",
@@ -46,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.273c454a.js",
-    "static/js/2.69f44d3e.chunk.js",
+    "static/js/2.761bb68b.chunk.js",
     "static/css/main.c709f515.chunk.css",
-    "static/js/main.1aff9b9f.chunk.js"
+    "static/js/main.e6d7dfe9.chunk.js"
   ]
 }

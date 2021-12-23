@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sakline-s-Portfolio/precache-manifest.109666a5e7f38df331ccd1801e5720f7.js"
+  "/Sakline-s-Portfolio/precache-manifest.56a3d54fddec8580583eb8bf507c3139.js"
 );
 
 self.addEventListener('message', (event) => {
