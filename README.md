@@ -1,5 +1,7 @@
 # Sakline-s-Portfolio
+
 This is the repo of my portfolio. It is build with react.
+
 <hr>
 <h2>If you want to clone clone it.</h2>
 Steps:-
@@ -15,4 +17,25 @@ Steps:-
   <li>CSS</li>
   <li>Javascript</li>
 </ul>
+<hr>
+
+<h2>Quick view of the project:</h2>
+1. The Landing Page
+<p></p>
+<img src="./pictures/scr1.png" />
+<hr>
+
+2. The Education Page
+<br>
+<img src="./pictures/scr4.png" />
+<hr>
+
+3. The Project Page
+<br>
+<img src="./pictures/scr2.png" />
+<hr>
+
+4. The Contact Page
+<br>
+<img src="./pictures/scr3.png" />
 <hr>
