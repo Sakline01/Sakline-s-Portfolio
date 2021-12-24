@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3067642daad508d71deb420ac64de70",
+    "revision": "c32156f30156ac81e6aa13cca2653124",
     "url": "/Sakline-s-Portfolio/index.html"
   },
   {
-    "revision": "cbbf406f20eb3f5ff77b",
-    "url": "/Sakline-s-Portfolio/static/css/main.c709f515.chunk.css"
+    "revision": "4ccbf2b104116a5f86c2",
+    "url": "/Sakline-s-Portfolio/static/css/main.25db83ce.chunk.css"
   },
   {
     "revision": "bf921fd9bf9619ac93f2",
     "url": "/Sakline-s-Portfolio/static/js/2.761bb68b.chunk.js"
   },
   {
-    "revision": "cbbf406f20eb3f5ff77b",
-    "url": "/Sakline-s-Portfolio/static/js/main.e6d7dfe9.chunk.js"
+    "revision": "4ccbf2b104116a5f86c2",
+    "url": "/Sakline-s-Portfolio/static/js/main.b0d9c594.chunk.js"
   },
   {
     "revision": "a0b0cb80c285e9e578dd",
     "url": "/Sakline-s-Portfolio/static/js/runtime-main.273c454a.js"
-  },
-  {
-    "revision": "0e9dcfdce936c04767a6cefde702bab3",
-    "url": "/Sakline-s-Portfolio/static/media/ circle2.0e9dcfdc.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -74,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "53367f8c3c65b5d7120a5a691e8ae5c4",
     "url": "/Sakline-s-Portfolio/static/media/circle.53367f8c.png"
+  },
+  {
+    "revision": "0e9dcfdce936c04767a6cefde702bab3",
+    "url": "/Sakline-s-Portfolio/static/media/circle2.0e9dcfdc.png"
   },
   {
     "revision": "f2b8403232dd7b7e23080c84e3ad337f",
