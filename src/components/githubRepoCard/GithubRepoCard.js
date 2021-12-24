@@ -33,12 +33,8 @@ export default function GithubRepoCard({ repo, theme }) {
                 d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"
               ></path>
             </svg>
-            <p
-              className="repo-name"
-              style={{ color: theme.text }}
-              onClick={() => openRepoinNewTab(repo.deploy)}
-            >
-              {repo.name} <IoEarthOutline />
+            <p className="repo-name" style={{ color: theme.text }}>
+              {repo.name}
             </p>
           </div>
           <p className="repo-description" style={{ color: theme.text }}>
@@ -51,8 +47,15 @@ export default function GithubRepoCard({ repo, theme }) {
             >
               Created on {repo.createdAt.split("T")[0]}
             </p>
+            <p
+              className="git-link"
+              onClick={() => openRepoinNewTab(repo.deploy)}
+            >
+              <abbr title="deployed site">
+                <IoEarthOutline />
+              </abbr>
+            </p>
             <p className="git-link" onClick={() => openRepoinNewTab(repo.url)}>
-              {" "}
               <abbr title="Go To GitHub Repo">
                 <FaGithub />
               </abbr>

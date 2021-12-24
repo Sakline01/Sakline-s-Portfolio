@@ -1,68 +1,79 @@
 {
-    "data": [
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Unbounce.com Clone",
+      "createdAt": "2021-08-16T16:26:54Z",
+      "deploy": "https://landing009.000webhostapp.com/unbounce.html",
+      "url": "https://github.com/nehachatse/sulphur.git",
+      "description": "The Project was to clone Unbounce.com . This is a website where one can promote business online.",
+      "image1": "https://user-images.githubusercontent.com/63180404/130653862-8fc0433e-d3d5-47ee-bf26-855550b6534a.png",
+      "image2": "https://user-images.githubusercontent.com/63180404/130655819-f4c78f20-fc87-4218-b950-59ff0a1af7fa.png",
+      "isFork": false,
+      "languages": [
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-            "name": "Unbounce.com Clone",
-            "createdAt": "2021-08-16T16:26:54Z",
-            "url": "https://github.com/nehachatse/sulphur.git",
-            "description": "The Project was to clone Unbounce.com . This is a website where one can promote business online.",
-            "image1": "https://user-images.githubusercontent.com/63180404/130653862-8fc0433e-d3d5-47ee-bf26-855550b6534a.png",
-            "image2": "https://user-images.githubusercontent.com/63180404/130655819-f4c78f20-fc87-4218-b950-59ff0a1af7fa.png",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                }
-            ]
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-            "name": "News App",
-            "createdAt": "2021-10-18T11:53:55Z",
-            "url": "https://github.com/Sakline01/newsapp.git",
-            "description": "This is a project where user can see headlines, technology, sports etc category news and also can search the news. This is a project where api fetch is used",
-            "image1": "https://github.com/Sakline01/newsapp/blob/master/image/scrnli_14_12_2021_12-41-28.png?raw=true",
-            "image2": "https://github.com/Sakline01/newsapp/blob/master/image/Screenshot%20from%202021-12-14%2012-49-36.png?raw=true",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                }
-            ]
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         },
         {
-            "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-            "name": "ml-data-bot",
-            "createdAt": "2020-06-19T14:24:55Z",
-            "url": "https://github.com/ashutosh1919/ml-data-bot",
-            "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
-            "image1": "https://user-images.githubusercontent.com/63180404/130653862-8fc0433e-d3d5-47ee-bf26-855550b6534a.png",
-            "image2": "https://user-images.githubusercontent.com/63180404/130655819-f4c78f20-fc87-4218-b950-59ff0a1af7fa.png",
-            "isFork": false,
-            "languages": [
-                {
-                    "name": "Python",
-                    "iconifyClass": "logos-python"
-                }
-            ]
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
-    ]
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcuw8NjkwNzUwMjM=",
+      "name": "News App",
+      "createdAt": "2021-10-18T11:53:55Z",
+      "deploy": "https://sakline01.github.io/newsapp/",
+      "url": "https://github.com/Sakline01/newsapp.git",
+      "description": "This is a project where user can see headlines, technology, sports etc category news and also can search the news. This is a project where api fetch is used",
+      "image1": "https://github.com/Sakline01/newsapp/blob/master/image/scrnli_14_12_2021_12-41-28.png?raw=true",
+      "image2": "https://github.com/Sakline01/newsapp/blob/master/image/Screenshot%20from%202021-12-14%2012-49-36.png?raw=true",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Food App",
+      "createdAt": "2021-10-30T11:53:55Z",
+      "deploy": "https://sakline01.github.io/foodapp/",
+      "url": "https://github.com/Sakline01/foodapp.git",
+      "description": "This is a project where user can serch food reciepe and can see lattest reciepe and reciepe of the day. This is a project where api fetch is used",
+      "image1": "https://github.com/Sakline01/foodapp/raw/master/Images/scrnli_23_12_2021_13-45-52.png?raw=true",
+      "image2": "https://github.com/Sakline01/foodapp/raw/master/Images/scrnli_23_12_2021_13-47-36.png?raw=true",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
 }
